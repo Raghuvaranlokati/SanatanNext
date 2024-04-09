@@ -1,4 +1,4 @@
-// components/Card.tsx
+//components/Card.tsx
 "use client";
 import { Card, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import Image from 'next/image';
